@@ -1,3 +1,11 @@
+cd into the googleAssistant directory:
+        
+       $ cd HackReactorAssistant/googleAssistant/
+        
+start server by running: 
+        
+       $ jovo run
+
 Invoke by saying: 
 
         "Ok google, talk to bootcamp finder".

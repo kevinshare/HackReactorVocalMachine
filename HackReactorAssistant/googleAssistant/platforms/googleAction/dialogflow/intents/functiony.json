@@ -1,0 +1,23 @@
+{
+	"name": "functiony",
+	"auto": true,
+	"webhookUsed": true,
+	"responses": [
+		{
+			"parameters": [
+				{
+					"isList": false,
+					"name": "numberssequence",
+					"value": "$numberssequence",
+					"dataType": "@sys.number-sequence"
+				},
+				{
+					"isList": false,
+					"name": "numbersVal",
+					"value": "$numbersVal",
+					"dataType": "@sys.number-integer"
+				}
+			]
+		}
+	]
+}

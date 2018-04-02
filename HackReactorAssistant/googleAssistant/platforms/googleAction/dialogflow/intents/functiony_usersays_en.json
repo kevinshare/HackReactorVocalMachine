@@ -1,0 +1,282 @@
+[
+	{
+		"data": [
+			{
+				"text": "numberssequence",
+				"userDefined": true,
+				"alias": "numberssequence",
+				"meta": "@sys.number-sequence"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "numbersVal",
+				"userDefined": true,
+				"alias": "numbersVal",
+				"meta": "@sys.number-integer"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "numberssequence",
+				"userDefined": true,
+				"alias": "numberssequence",
+				"meta": "@sys.number-sequence"
+			},
+			{
+				"text": " sort it and reduce it",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "numbersVal",
+				"userDefined": true,
+				"alias": "numbersVal",
+				"meta": "@sys.number-integer"
+			},
+			{
+				"text": " sort it and reduce it",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "take the numbers ",
+				"userDefined": false
+			},
+			{
+				"text": "numberssequence",
+				"userDefined": true,
+				"alias": "numberssequence",
+				"meta": "@sys.number-sequence"
+			},
+			{
+				"text": " and sort it and reduce it",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "take the numbers ",
+				"userDefined": false
+			},
+			{
+				"text": "numbersVal",
+				"userDefined": true,
+				"alias": "numbersVal",
+				"meta": "@sys.number-integer"
+			},
+			{
+				"text": " and sort it and reduce it",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "sort the list of numbers ",
+				"userDefined": false
+			},
+			{
+				"text": "numberssequence",
+				"userDefined": true,
+				"alias": "numberssequence",
+				"meta": "@sys.number-sequence"
+			},
+			{
+				"text": " and sort it and then reduce it",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "sort the list of numbers ",
+				"userDefined": false
+			},
+			{
+				"text": "numbersVal",
+				"userDefined": true,
+				"alias": "numbersVal",
+				"meta": "@sys.number-integer"
+			},
+			{
+				"text": " and sort it and then reduce it",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "take the list of numbers ",
+				"userDefined": false
+			},
+			{
+				"text": "numberssequence",
+				"userDefined": true,
+				"alias": "numberssequence",
+				"meta": "@sys.number-sequence"
+			},
+			{
+				"text": " and sorted and reduce it",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "take the list of numbers ",
+				"userDefined": false
+			},
+			{
+				"text": "numbersVal",
+				"userDefined": true,
+				"alias": "numbersVal",
+				"meta": "@sys.number-integer"
+			},
+			{
+				"text": " and sorted and reduce it",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "do a bubble sort and reduce an array with numbers ",
+				"userDefined": false
+			},
+			{
+				"text": "numberssequence",
+				"userDefined": true,
+				"alias": "numberssequence",
+				"meta": "@sys.number-sequence"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "do a bubble sort and reduce an array with numbers ",
+				"userDefined": false
+			},
+			{
+				"text": "numbersVal",
+				"userDefined": true,
+				"alias": "numbersVal",
+				"meta": "@sys.number-integer"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "take the list of numbers ",
+				"userDefined": false
+			},
+			{
+				"text": "numberssequence",
+				"userDefined": true,
+				"alias": "numberssequence",
+				"meta": "@sys.number-sequence"
+			},
+			{
+				"text": " and sort it and reduce it",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "take the list of numbers ",
+				"userDefined": false
+			},
+			{
+				"text": "numbersVal",
+				"userDefined": true,
+				"alias": "numbersVal",
+				"meta": "@sys.number-integer"
+			},
+			{
+				"text": " and sort it and reduce it",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "sort a list of numbers and reduce them with numbers ",
+				"userDefined": false
+			},
+			{
+				"text": "numberssequence",
+				"userDefined": true,
+				"alias": "numberssequence",
+				"meta": "@sys.number-sequence"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "sort a list of numbers and reduce them with numbers ",
+				"userDefined": false
+			},
+			{
+				"text": "numbersVal",
+				"userDefined": true,
+				"alias": "numbersVal",
+				"meta": "@sys.number-integer"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	}
+]

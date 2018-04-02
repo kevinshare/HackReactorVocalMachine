@@ -1,0 +1,149 @@
+{
+	"invocation": "bootcamp finder",
+	"intents": [
+		{
+			"name": "Ask",
+      "phrases": [
+          "can i ask for your most honest opinion on something",
+          "can i ask you something",
+          "can i ask you a question"
+      ]
+		},
+		{
+			"name": "made",
+      "phrases": [
+          "what frameworks are used to make this application",
+          "what frameworks are used to build this application",
+          "what frameworks are used in this application",
+          "how is this app made",
+          "what is this application made with"
+      ]
+		},
+		{
+			"name": "story",
+      "phrases": [
+          "tell me about {name}",
+          "tell me a sotry about {name}"
+      ],
+			"inputs": [
+				{
+					"name": "name",
+					"type": {
+						"dialogflow": "@sys.given-name"
+					}
+				},
+				{
+					"name": "otherName",
+					"type": {
+						"dialogflow": "@sys.given-name"
+					}
+				}
+			]
+		},
+		{
+			"name": "findTaco",
+      "phrases": [
+          "how could {name} sauce up a taco",
+          "find how {name} could sauce up a taco"
+      ],
+			"inputs": [
+				{
+					"name": "name",
+					"type": {
+						"dialogflow": "@sys.given-name"
+					}
+				}
+			]
+		},
+		{
+			"name": "functiony",
+			"phrases": [
+				"{numberssequence}",
+				"{numbersVal}",
+				"{numberssequence} sort it and reduce it",
+				"{numbersVal} sort it and reduce it",
+				"take the numbers {numberssequence} and sort it and reduce it",
+				"take the numbers {numbersVal} and sort it and reduce it",
+				"sort the list of numbers {numberssequence} and sort it and then reduce it",
+				"sort the list of numbers {numbersVal} and sort it and then reduce it",
+				"take the list of numbers {numberssequence} and sorted and reduce it",
+				"take the list of numbers {numbersVal} and sorted and reduce it",
+				"do a bubble sort and reduce an array with numbers {numberssequence}",
+				"do a bubble sort and reduce an array with numbers {numbersVal}",
+				"take the list of numbers {numberssequence} and sort it and reduce it",
+				"take the list of numbers {numbersVal} and sort it and reduce it",
+				"sort a list of numbers and reduce them with numbers {numberssequence}",
+				"sort a list of numbers and reduce them with numbers {numbersVal}"
+			],
+			"inputs": [
+				{
+					"name": "numberssequence",
+					"type": {
+						"dialogflow": "@sys.number-sequence"
+					}
+				},
+				{
+					"name": "numbersVal",
+					"type": {
+						"dialogflow": "@sys.number-integer"
+					}
+				}
+			]
+		},
+		{
+			"name": "beth",
+      "phrases": [
+          "where can i get a lecture from beth",
+          "where can i be taught by beth"
+      ]
+		},
+		{
+			"name": "whatDoYouThink",
+      "phrases": [
+          "what do you think about this presentation",
+          "what are your thoughts on this presentation"
+      ]
+		},
+		{
+			"name": "HackReactor",
+      "phrases": [
+          "where should google hire developers",
+          "where can i become a full stack engineer",
+          "where can i learn backbone",
+          "where can i learn react",
+          "where can i learn javascript",
+          "whats the best bootcamp for me",
+          "who can teach me to get a job"
+      ],
+			"inputs": [
+				{
+					"name": "name",
+					"type": {
+						"alexa": "AMAZON.US_FIRST_NAME",
+						"dialogflow": "@sys.given-name"
+					}
+				}
+			]
+		}
+	],
+	"dialogflow": {
+		"intents": [
+			{
+				"name": "Default Fallback Intent",
+				"auto": true,
+				"webhookUsed": true,
+				"fallbackIntent": true
+			},
+			{
+				"name": "Default Welcome Intent",
+				"auto": true,
+				"webhookUsed": true,
+				"events": [
+					{
+						"name": "WELCOME"
+					}
+				]
+			}
+		]
+	}
+}

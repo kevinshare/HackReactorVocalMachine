@@ -1,0 +1,23 @@
+{
+	"name": "story",
+	"auto": true,
+	"webhookUsed": true,
+	"responses": [
+		{
+			"parameters": [
+				{
+					"isList": false,
+					"name": "name",
+					"value": "$name",
+					"dataType": "@sys.given-name"
+				},
+				{
+					"isList": false,
+					"name": "otherName",
+					"value": "$otherName",
+					"dataType": "@sys.given-name"
+				}
+			]
+		}
+	]
+}

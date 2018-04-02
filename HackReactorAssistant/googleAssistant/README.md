@@ -1,3 +1,11 @@
+Invoke by saying: 
+
+        "Ok google, talk to bootcamp finder".
+        
+List of questions/scenarios exist in dialogflow and app/app.js
+
+
+
 [![Jovo Framework](https://www.jovo.tech/img/github-logo.png)](https://www.jovo.tech)
 
 <p align="center">Sample Voice App for the <a href="https://github.com/jovotech/jovo-framework-nodejs">Jovo Framework</a> ⭐️</p>
